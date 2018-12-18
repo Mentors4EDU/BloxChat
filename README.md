@@ -4,6 +4,7 @@ Bloxchat is a new type of social network
  - Bots
  - Abuse
  - Monopolization
+ 
 We aim to fix all this with a nice decentralized alternative that will:
  - Have only a follow botton that way people's following doesn't drop
  - To avoid abuse we have the following:
